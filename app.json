@@ -1,0 +1,23 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/settings/settings",
+        "pages/handbook/index/index",
+        "pages/handbook/detail/detail",
+        "pages/handbook/statistics/statistics",
+        "pages/handbook/sublist/sublist"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "猫咪生活记账助手",
+        "navigationBarTextStyle": "black"
+    },
+    "networkTimeout": {
+        "requst": 20000,
+        "cnnectSocket": 20000,
+        "upladFile": 20000,
+        "downloadFile": 20000
+    },
+    "sitemapLocation": "sitemap.json"
+}
